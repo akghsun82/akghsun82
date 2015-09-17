@@ -11,6 +11,7 @@
 <!--
 <property name = "bin.webcnt.cls.dir" value="${build.home}\bin"/>
 -->
+<!-- TEST -->
 <property name = "bin.webcnt.cls.dir" value="${build.home}\bin\WebContent\WEB-INF\classess"/>
 <property name = "bin.webcnt.dir" value="${build.home}\bin\WebContent"/>
 
